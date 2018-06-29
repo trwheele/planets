@@ -7,3 +7,4 @@ Change from Addi: This is a git joke: the problem with git jokes is that everyon
 I figured this out!!! :) Gonna be a pro someday... ;) 
 Pro, PhD, right? 
 Mwahaha... maybe it will crash the website... 
+What's a pirate's favorite statistical analysis programming language? R!
